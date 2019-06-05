@@ -1,0 +1,4 @@
+message: This is message from Dev Envirnment !!
+
+server:
+  port: 8081

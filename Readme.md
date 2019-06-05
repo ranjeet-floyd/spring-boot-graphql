@@ -1,5 +1,8 @@
 ## Rest API using Spring Boot GraphQL
 
+## Swagger UI html
+    http://localhost:8091/swagger-ui.html
+
 ## Run
     mvn spring-boot:run
 
